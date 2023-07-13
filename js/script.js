@@ -16,7 +16,7 @@ const members = {
         garage_cost     :0,
         running_payable :2489,
         running_paid    :4000,
-        running_meal    :9,
+        running_meal    :10,
         // method calling
         previousAddedDining,
         previousDue,
@@ -41,7 +41,7 @@ const members = {
         garage_cost     :0,
         running_payable :2908,
         running_paid    :5000,
-        running_meal    :12,
+        running_meal    :14,
         // method calling
         previousAddedDining,
         previousDue,
@@ -67,7 +67,7 @@ const members = {
         garage_cost     :0,
         running_payable :4800,
         running_paid    :6500,
-        running_meal    :4,
+        running_meal    :5,
         // method calling
         previousAddedDining,
         previousDue,
@@ -117,8 +117,8 @@ const members = {
         stay_cost       :3000,
         garage_cost     :0,
         running_payable :2548,
-        running_paid    :0,
-        running_meal    :10,
+        running_paid    :5000,
+        running_meal    :11,
         // method calling
         previousAddedDining,
         previousDue,
@@ -143,7 +143,7 @@ const members = {
         garage_cost     :0,
         running_payable :2111,
         running_paid    :3920,
-        running_meal    :12,
+        running_meal    :14,
         // method calling
         previousAddedDining,
         previousDue,
@@ -168,8 +168,8 @@ const members = {
         stay_cost       :2500,
         garage_cost     :0,
         running_payable :3356,
-        running_paid    :1900,
-        running_meal    :8,
+        running_paid    :3400,
+        running_meal    :10,
         // method calling
         previousAddedDining,
         previousDue,
@@ -195,7 +195,7 @@ const members = {
         garage_cost     :500,
         running_payable :3928,
         running_paid    :4000,
-        running_meal    :11,
+        running_meal    :13,
         // method calling
         previousAddedDining,
         previousDue,
@@ -221,7 +221,7 @@ const members = {
         garage_cost     :0,
         running_payable :1380,
         running_paid    :1000,
-        running_meal    :13,
+        running_meal    :15,
         // method calling
         previousAddedDining,
         previousDue,
