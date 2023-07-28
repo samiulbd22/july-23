@@ -16,7 +16,7 @@ const members = {
         garage_cost     :0,
         running_payable :2489,
         running_paid    :4000,
-        running_meal    :26,
+        running_meal    :28,
         // method calling
         previousAddedDining,
         previousDue,
@@ -67,7 +67,7 @@ const members = {
         garage_cost     :0,
         running_payable :4800,
         running_paid    :6500,
-        running_meal    :19,
+        running_meal    :20,
         // method calling
         previousAddedDining,
         previousDue,
@@ -92,7 +92,7 @@ const members = {
         garage_cost     :0,
         running_payable :3342,
         running_paid    :3775,
-        running_meal    :19,
+        running_meal    :20,
         // method calling
         previousAddedDining,
         previousDue,
@@ -118,7 +118,7 @@ const members = {
         garage_cost     :0,
         running_payable :2548,
         running_paid    :5000,
-        running_meal    :24,
+        running_meal    :26,
         // method calling
         previousAddedDining,
         previousDue,
@@ -143,7 +143,7 @@ const members = {
         garage_cost     :0,
         running_payable :2111,
         running_paid    :3920,
-        running_meal    :37,
+        running_meal    :39,
         // method calling
         previousAddedDining,
         previousDue,
@@ -169,7 +169,7 @@ const members = {
         garage_cost     :0,
         running_payable :3356,
         running_paid    :4400,
-        running_meal    :31,
+        running_meal    :33,
         // method calling
         previousAddedDining,
         previousDue,
@@ -195,7 +195,7 @@ const members = {
         garage_cost     :500,
         running_payable :3928,
         running_paid    :4500,
-        running_meal    :40,
+        running_meal    :42,
         // method calling
         previousAddedDining,
         previousDue,
@@ -221,7 +221,7 @@ const members = {
         garage_cost     :0,
         running_payable :1380,
         running_paid    :1500,
-        running_meal    :24,
+        running_meal    :27,
         // method calling
         previousAddedDining,
         previousDue,
