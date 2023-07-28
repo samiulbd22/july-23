@@ -4,7 +4,7 @@ const members = {
     serviceBill     :30,
     othersBill      :0,
     runningMonth    :"July-23",
-    runningMealRate :59,
+    runningMealRate :58,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -168,7 +168,7 @@ const members = {
         stay_cost       :2500,
         garage_cost     :0,
         running_payable :3356,
-        running_paid    :4400,
+        running_paid    :4900,
         running_meal    :33,
         // method calling
         previousAddedDining,
