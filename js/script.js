@@ -9,7 +9,7 @@ const members = {
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
         pre_previous_payable:3375,
-        previous_paid       :4000,
+        previous_paid       :5000,
         previous_dining_cost:1344,
         // running month
         stay_cost       :2200,
